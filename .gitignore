@@ -1,0 +1,5 @@
+# Ignore node_modules in the main folder
+/node_modules
+
+# Ignore node_modules in the client folder
+/my-app/node_modules
